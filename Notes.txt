@@ -1,0 +1,3 @@
+Approximate Euclidean distance preserving dimensional reduction techniques -- 
+
+Mainly Johnson-Lindenstrauss in various flavours (Gaussian matrices, Rademacher, Fast JL, and Hadamard)

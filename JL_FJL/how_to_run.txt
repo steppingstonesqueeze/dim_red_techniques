@@ -1,0 +1,2 @@
+Rscript scripts/run_series_A.R --dataset iso_gauss --n 3000 --D 512 --md 0.02,0.05,0.1,0.2 --methods jl_gauss,jl_rademacher,fjlt --pairs 50000
+
